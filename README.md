@@ -4,4 +4,5 @@
  repo are the following:
  
  * **Tips and tricks:** Useful resources for the hackathon 
- * **ROS Introduction:** Containts some materials used in a previous ROS course, hoewever we highly recommend to visit the ROS turoials available online 
+ * **ROS Introduction:** Containts some materials used in a previous ROS course, hoewever we highly recommend to visit the ROS tutorials available online 
+ * **Simulator.zip** ROS Simulator 
